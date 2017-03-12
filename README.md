@@ -11,3 +11,4 @@ Get familiar with following situations:
 - 7. Collaboration (Add as collaborator)
 - 8. Add by Monkey
 - 9. Add by Monkey
+- 10. Sync up with upstream
