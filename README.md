@@ -7,6 +7,6 @@ Get familiar with following situations:
 - 3. Branch
 - 4. Merge
 - 5. Rebase
-- 6. Collaboration 
-- 7. 
-
+- 6. Collaboration
+- 7.
+- 8. Add by Monkey
