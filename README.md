@@ -7,6 +7,6 @@ Get familiar with following situations:
 - 3. Branch
 - 4. Merge
 - 5. Rebase
-- 6. Collaboration (Fork and pull request) 
+- 6. Collaboration (Fork and pull request from Monkey) 
 - 7. Collaboration (Add as collaborator)
 
