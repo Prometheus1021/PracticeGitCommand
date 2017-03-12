@@ -11,6 +11,6 @@ Get familiar with following situations:
 - 7. Collaboration (Add as collaborator)
 - 8. Resolve conflict (v)
 - 9. Merge a branch to master branch (v)
-- 10. Sync up with upstream (v)
+- 10. Sync up with upstream using Fetch (v)
 - 11. Revert back pull by using Reset (v)
-- 12. Stash 
+- 12. Stash (v)
