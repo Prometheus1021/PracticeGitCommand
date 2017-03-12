@@ -4,11 +4,11 @@
 Get familiar with following situations:
 - 1. Commit a file (v)
 - 2. Selective choose what to commit
-- 3. Branch
-- 4. Merge
-- 5. Rebase
-- 6. Collaboration (Fork and pull request from Monkey) 
+- 3. Branch (v)
+- 4. Push a change to same branch (v)
+- 5. Rebase (v)
+- 6. Collaboration (Fork and pull request from Monkey) (v) 
 - 7. Collaboration (Add as collaborator)
-- 8. Add by Monkey
-- 9. Add by Monkey
-- 10. Sync up with upstream
+- 8. Resolve conflict (v)
+- 9. Merge a branch to master branch (v)
+- 10. Sync up with upstream (v)
