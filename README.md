@@ -9,4 +9,5 @@ Get familiar with following situations:
 - 5. Rebase
 - 6. Collaboration (Fork and pull request from Monkey) 
 - 7. Collaboration (Add as collaborator)
-
+- 8. Add by Monkey
+- 9. Add by Monkey
