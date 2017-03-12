@@ -11,3 +11,4 @@ Get familiar with following situations:
 - 7. Collaboration (Add as collaborator)
 - 8. Resolve conflict (v)
 - 9. Merge a branch to master branch (v)
+- 10. Sync up with upstream (v)
