@@ -12,3 +12,5 @@ Get familiar with following situations:
 - 8. Resolve conflict (v)
 - 9. Merge a branch to master branch (v)
 - 10. Sync up with upstream (v)
+- 11. Revert back pull by using Reset (v)
+- 12. Stash 
